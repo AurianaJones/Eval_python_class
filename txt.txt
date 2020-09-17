@@ -1,0 +1,9 @@
+@everyone evaluation orientée object:
+Ecrire en python des classes qui respectent les conditions suivantes:
+- Un étudiant a un nom
+- Un étudiant a plusieurs notes
+- Une notes a une valeur (integer)
+
+Ecrire :
+- une méthode qui permet de retrouver toutes les notes associées à un étudiant sous forme de tableau
+- une méthode qui permet  de faire la moyenne de ces notes
